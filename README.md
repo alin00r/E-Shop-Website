@@ -1,4 +1,4 @@
-# E-Shop Website
+# E-Shop Website (Front-end-Project)
 <p align="center">
   <p align="center">
     <a href="https://webprojectcs3.000webhostapp.com/index.html" target="_blank">

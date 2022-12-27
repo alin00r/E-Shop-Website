@@ -33,11 +33,10 @@ Beautiful responsive ecommerce (fornt-end-master) website built with (`html` & `
 
 <h2>Appearance on mobile</h2> 
 <img src="https://user-images.githubusercontent.com/74410154/209476503-88b3a582-41ac-4e5a-989f-9370bf1dae1e.png">
- Demo: <a href="https://webprojectcs3.000webhostapp.com/">Live website</a>
-
+<a href="https://webprojectcs3.000webhostapp.com/"><strong>➥ Live Demo</strong></a>
 <h2>Appearance on desktop</h2> 
 <img src="https://user-images.githubusercontent.com/74410154/209476950-0b0dbe3f-2aaa-4583-af4f-7333100c6f86.png">
- Demo: <a href="https://webprojectcs3.000webhostapp.com/">Live website</a>
+<a href="https://webprojectcs3.000webhostapp.com/"><strong>➥ Live Demo</strong></a>
 
 ## License
 

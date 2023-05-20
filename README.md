@@ -40,6 +40,6 @@ Beautiful responsive ecommerce (fornt-end-master) website built with (`html` & `
 
 ## License
 
-This software is licensed under the MIT License © [Team 18](https://github.com/alin00r)
+This software is licensed under the MIT License © [AliNour](https://github.com/alin00r)
 
 
